@@ -28,8 +28,6 @@ PKGS=(
 'steam' # Gaming Platform
 'brave-bin' # Brave Browser
 'dxvk-bin' # DXVK DirectX to Vulcan
-'lightly-git'
-'lightlyshaders-git'
 'mangohud' # Gaming FPS Counter
 'mangohud-common'
 'nerd-fonts-fira-code'
