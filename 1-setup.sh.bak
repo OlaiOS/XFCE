@@ -54,8 +54,8 @@ pacman -Sy --noconfirm
 echo -e "\nInstalling Base System\n"
 
 PKGS=(
-'xfce4' # Desktop Environment
-'xfce4-goodies' # Desktop Environment
+'xfce4'
+'xfce4-goodies'
 'xterm'
 'alsa-plugins' # audio plugins
 'alsa-utils' # audio utils
