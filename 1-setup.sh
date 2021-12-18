@@ -116,7 +116,6 @@ PKGS=(
 'kscreen'
 'kvantum-qt5'
 'kitty'
-'konsole'
 'kscreen'
 'layer-shell-qt'
 'libdvdcss'
