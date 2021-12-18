@@ -179,8 +179,6 @@ PKGS=(
 'wine-gecko'
 'wine-mono'
 'winetricks'
-'xdg-desktop-portal-kde'
-'xdg-user-dirs'
 'zeroconf-ioslave'
 'zip'
 'zsh'
